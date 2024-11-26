@@ -101,6 +101,13 @@ The Suzuki Press Van-120 is overall an amazing camera. If I could do the purchas
 
 ---
 
+## Video
+I made a short video showcasing the features of the camera. It's just two minutes long and with no speech. It showcases all the features that the camera comes with.
+
+{{< youtube 5oMx85JkKz8 >}}
+
+---
+
 ## Sample shots
 I'll end the review with a few more sample shots:
 
