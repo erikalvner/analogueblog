@@ -1,0 +1,44 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'analogue direction'
+theme = 'hugo-theme-re-terminal-main'
+paginate = 5
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = true
+  favicon = "/favicon.png"
+    [languages]
+  [languages.en.params]
+    title = "analogue-direction"
+    subtitle = "personal blog about analogue cameras and photography"
+    keywords = ""
+    copyright = ""
+    menuMore = "show more"
+    readMore = "read more"
+    readOtherPosts = "other posts"
+
+    [languages.en.params.logo]
+      logoText = "analogue // direction"
+      logoHomeLink = "/"
+      [params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "erikalvner"
+  site = "erikalvner"
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+	weight ="1"
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"    
+	weight ="2"
