@@ -15,7 +15,7 @@ draft = "false"
 +++
 
 ## Introduction
-To introduce myself quickly, the name's Erik and I'm into analogue photography. This will be the first post on this blog, hopefully of many.
+To introduce myself quickly, the name's Erik and I'm into analogue photography. This will be the first post on this blog, hopefully of many. You can find my portfolio [here](https://kallmoraberget.com/).
 
 I bought the camera in question on eBay for about 260 euros. Finding one within Europe is very hard and I threw myself over the purchase button as quickly as I could. If you want to know more about the camera's history and background, I strongly advise you to read Mike Eckman's blog post about it, which you can find [here](https://mikeeckman.com/2021/08/suzuki-press-van-1953/).
 
