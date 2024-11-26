@@ -56,6 +56,8 @@ The lens starts at an aperture of an alright 3,5 and stops all the way down to 2
 
 {{< figure src="/suzukipressvan/matildahjordis.jpg" alt="" position="center" style="border-radius: 8px;" caption="Medium format look." captionPosition="center" captionStyle="color: darkblue;" >}}
 
+A very important feature is that the aperture "ring", if you can call it that, clicks. This means you can use the camera in what is essentially shutter priority mode. The shutter dial spins freely, but if you have a set shutter and need to adjust the aperture, you don't have to actually look at the front of the lens to adjust it if you get used to where the stops are or in what order they come.
+
 ##### Shutter
 On the lens itself is not only the aperture control but also the wheel for setting the shutter speed as well as cocking the Seiko-made shutter. It goes from one second down to 1/500 and features a bulb mode as well. My camera struggles with the two longest shutter speeds, but works more than fine on all others.
 
@@ -63,7 +65,7 @@ Thanks to having a leaf shutter, it's very much possible to take images in lower
 
 {{< figure src="/suzukipressvan/blurrylowlight.jpg" alt="" position="center" style="border-radius: 8px;" caption="Slightly blurry but decent enough photo taken inside in a dimly lit room." captionPosition="center" captionStyle="color: darkblue;" >}}
 
-### Viewfinder and rangefinder
+### Viewfinder, rangefinder and focus
 As you probably noticed, there are three small windows on the front. This usually means that there's an uncoupled rangefinder. That's not the case here, though. The rangefinder mechanism is coupled, but the rangefinder and the viewfinder are separated. This is apparently much like older Leica cameras. 
 
 {{< figure src="/suzukipressvan/viewfinder.jpg" alt="" position="center" style="border-radius: 8px;" caption="Rangefinder and viewfinder." captionPosition="center" captionStyle="color: darkblue;" >}}
@@ -75,3 +77,41 @@ The view around the rangefinder is tinted slightly blue whereas the rangefinder 
 
 ##### Viewfinder
 My only wish is that the viewfinder had been a bit larger, as framing can sometimes take a bit of concentration. Since the camera shoots two formats, the viewfinder is also equipped with a 4,5 mask on the sides. I think it's supposed to be kind of see-through. It's yellowed with age on my camera and feels pretty pointless.
+
+##### Focus dial
+To turn the focus, you turn the dial on the top right of the camera. It's sadly marked in feet instead of metres. The knob to the left is just a reminder wheel for you to remember what kind of film you've currently got rolled up inside. It doesn't actually affect any settings.
+
+{{< figure src="/suzukipressvan/ovan.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+According to a video from Japan Vintage Camera on YouTube, a common problem with these is that the focus wheel gets stiff. Mine was when I bought it, but it was very easy to open it up and apply some lube to the mechanism. After I did, it's very easy to focus. Zone focusing wouldn't work very well for me, however, as I grew up with the metric system...
+
+---
+
+## Feel and subjective opinions
+It might be the most important feature, sometimes overlooked in reviews. In my opinion, this camera handles really well. Having to first check focus in one window to then move on the frame in another can be quite annoying, but you get used to it pretty quick. If something happens where you really need to get the shot, you can always snap away while looking through the rangefinder window. After having put a few rolls through it, you get fairly accustomed to the difference in framing between the two windows.
+
+Having the controls on the front of the lens can also be quite frustrating, but having the aperture "ring" click is a very welcome feature. If the shutter speed could also click, I'd almost give it a full score. Not that I'm keeping one.
+
+My biggest gripe with it is that it's not a folder camera. It has bellows that extend, but the lens element and the controls do not fold. This limits my ability to keep it in my pocket out of fear that I might scratch the lens element or that the shutter or aperture lever might get stuck in a loose thread.
+
+---
+
+## Conclusion
+The Suzuki Press Van-120 is overall an amazing camera. If I could do the purchase all over again, I'd probably pick a folder over it to be able to keep it in my pocket. Now that I've bought it? I'm more than satisfied with it, especially the amazing quality of the lens.
+
+---
+
+## Sample shots
+I'll end the review with a few more sample shots:
+
+{{< figure src="/suzukipressvan/gata.jpg" alt="" position="center" style="border-radius: 8px;" caption="A man on the street I happened to pass" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/suzukipressvan/selfportrait.jpg" alt="" position="center" style="border-radius: 8px;" caption="Self portrait in an elevator mirror" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/suzukipressvan/hus.jpg" alt="" position="center" style="border-radius: 8px;" caption="My neighbours house" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/suzukipressvan/dogoncar.jpg" alt="" position="center" style="border-radius: 8px;" caption="My dog sitting on the hood of my car" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/suzukipressvan/symaskinivar.jpg" alt="" position="center" style="border-radius: 8px;" caption="My friend's sewing machine, an example of the low light capabilities" captionPosition="center" captionStyle="color: darkblue;" >}}
+
+{{< figure src="/suzukipressvan/skiva.jpg" alt="" position="center" style="border-radius: 8px;" caption="An Ola Magnell record spinning" captionPosition="center" captionStyle="color: darkblue;" >}}
