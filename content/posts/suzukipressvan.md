@@ -39,7 +39,7 @@ There are several differences between the two versions, with the main one being 
 
 The original model also featured an automatic frame counter, which went out the window with the latter revision. In my model, you simply use the red window on the back. 
 
-{{< figure src="/suzukipressvan/sidan.jpg" alt="" position="center" style="border-radius: 8px;" caption="kameran ihopfälld" captionPosition="center" captionStyle="color: darkblue;" >}}
+{{< figure src="/suzukipressvan/sidan.jpg" alt="" position="center" style="border-radius: 8px;" caption="From the back" captionPosition="center" captionStyle="color: darkblue;" >}}
 
 To be able to distinguish which format you're shooting, you rotate the pressure plate when loading the film. Rotating it makes sure that you can only see one of the numbers through the red windows when advancing the film.
 
