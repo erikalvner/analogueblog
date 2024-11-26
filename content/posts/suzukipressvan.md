@@ -113,6 +113,8 @@ I'll end the review with a few more sample shots:
 
 {{< figure src="/suzukipressvan/gata.jpg" alt="" position="center" style="border-radius: 8px;" caption="A man on the street I happened to pass" captionPosition="center" captionStyle="color: darkblue;" >}}
 
+{{< figure src="/suzukipressvan/duett.jpg" alt="" position="center" style="border-radius: 8px;" caption="An abandoned Volvo Duett" captionPosition="center" captionStyle="color: darkblue;" >}}
+
 {{< figure src="/suzukipressvan/selfportrait.jpg" alt="" position="center" style="border-radius: 8px;" caption="Self portrait in an elevator mirror" captionPosition="center" captionStyle="color: darkblue;" >}}
 
 {{< figure src="/suzukipressvan/hus.jpg" alt="" position="center" style="border-radius: 8px;" caption="My neighbours house" captionPosition="center" captionStyle="color: darkblue;" >}}

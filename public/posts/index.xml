@@ -136,6 +136,15 @@
 
 
   &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;//localhost:1313/suzukipressvan/duett.jpg&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: darkblue;&#34; &gt;An abandoned Volvo Duett&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;//localhost:1313/suzukipressvan/selfportrait.jpg&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: darkblue;&#34; &gt;Self portrait in an elevator mirror&lt;/figcaption&gt;
