@@ -1,6 +1,6 @@
 +++
 title= "About me"
-date= "2024 // 08 // 25"
+date= "2024-08-25"
 author= "erik"
 hideComments= true
 cover= "jag.jpg"
