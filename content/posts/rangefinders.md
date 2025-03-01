@@ -108,6 +108,20 @@ Unlike the previous two mentions, the Weltur isn't a specific model but rather a
 
 A bit more expensive than the previous mentions, I'd stay clear of the 6x4.5 model unless you're absolutely sure that's the format you're going for. The 6x6 and 6x9 models are dual format and can shoot their respective format as well as 6x4.5. Unlike the Suzuki with its built in 4.5-doors, the Weltur uses detachable masks. If you're interested in getting one, I'd recommend getting the 6x6 and just wait until there's an auction for one with the 4.5 mask.
 
+### *IV. Honourable mentions*
+
+There are a lot of great folders to choose from and I can't cover them all, so I'll just give a short list of some models, model lines or manufacturers that seem interesting.
+
+- Certo Six
+- Super Fujica-6
+- Mamiya Six
+- Texer SR (Seagull 203-I)
+- Konica Pearl
+- Franka Solida III
+- Agfa Super Isolette
+- Moskva 5
+- KMZ Iskra
+
 ### **Price range**
 
 |Suzuki Press Van-120|Balda Super Baldax|Welta Weltur (6x6)|
