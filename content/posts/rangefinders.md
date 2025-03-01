@@ -40,7 +40,7 @@ Named the Perkeo II, it released only with the f3,5 VASKAR lens (the better one)
 
 Last of the Perkeo line was the III, the IIIE or the E. It shipped with either of the aforementioned lenses and lacked the automatic frame counter of the Perkeo II. The space previously occupied by the automatic frame counter now instead housed a rangefinder system. It was, however, uncoupled.
 
-### *III. Best value - Perkeo II with cold-shoe rangefinder attachment*
+### *IV. Best value - Perkeo II with cold-shoe rangefinder attachment*
 
 There is no Perkeo IIII, but I thought I'd end this section with what I consider the best course of action if the Voigtländer Perkeo line seems interesting. The absolute best value for money is to buy a Perkeo II and a separate cold-shoe rangefinder attachment. I own the Perkeo I and ordered a standalone rangefinder with a 1:1 magnification for about 15 euros. It's a wonderful combination. With the Perkeo II you get the best choice of lens as well as the automatic frame counter. Adding a rangefinder attachment to it gives you the best of both worlds from the II and the III. This definitely isn't worse than spending a lot on the III as the rangefinder module in the III is uncoupled.
 
