@@ -24,7 +24,7 @@ I'm very satisfied with the Suzuki Press-Van 120. Despite having bellows, they o
 
 I own the Suzuki Press-Van 120 and the Voigtländer Perkeo I and can recommend them strongly. I've handled the Perkeo II, the Perkeo III and the Zeiss Super Ikonta 534/16.
 
-## Voigtländer Perkeo
+## **Voigtländer Perkeo**
 
 If you want a tiny 6x6 and don't care about the rangefinder, I'd go for the Voigtländer Perkeo series of cameras. They are pretty fucking great. Absolutely tiny, easy to use and able to produce great photos. Maybe the most important part, all the ones I've handled have been extremely reliable despite probably not having been serviced in a very very long time.
 
@@ -46,7 +46,7 @@ There is no Perkeo IIII, but I thought I'd end this section with what I consider
 
 ### **Price range**
 
-|Perkeo I|Perkeo II|Perkeo III, IIIE or E|
+|Perkeo I|Perkeo II|Perkeo III|
 |:-|:-|:-|
 |€ 15-50|€ 50-120|€ 350-600|
 
