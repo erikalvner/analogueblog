@@ -10,3 +10,4 @@ content:
       - { name: author, label: Author, type: string }
       - { name: cover, label: Cover, type: image }
       - { name: description, label: Description, type: string, options: { maxlength 140 } }
+      - { name: body, label: Body, type: rich-text }
