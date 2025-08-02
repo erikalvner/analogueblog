@@ -1,4 +1,6 @@
-media: static
+media:
+  input: static/bilder
+  output: bilder
 content:
   - name: posts
     label: Posts
