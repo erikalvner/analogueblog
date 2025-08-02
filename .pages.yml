@@ -1,6 +1,6 @@
 media:
-  input: static/bilder
-  output: bilder
+  input: static
+  output:
 content:
   - name: posts
     label: Posts
