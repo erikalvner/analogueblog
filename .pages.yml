@@ -1,1 +1,10 @@
 media: static
+content:
+  - name: posts
+    label: Posts
+    path: _posts
+      - { name: title, label: Title, type: string }
+      - { name: title, label: Title, type: string }
+      - { name: title, label: Title, type: string }
+      - { name: title, label: Title, type: string }
+      - { name: title, label: Title, type: string }
