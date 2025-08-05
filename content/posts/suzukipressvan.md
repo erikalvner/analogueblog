@@ -2,9 +2,8 @@
 title: Suzuki Press Van-120
 date: 2024-11-25
 author: erik
-cover: /suzukipressvan/utfalld.jpg
-description: Trying out and reviewing a very rare Japanese rangefinder --- the
-  Suzuki Press Van-120
+cover: //suzukipressvan/utfalld.jpg
+description: Trying out and reviewing a very rare Japanese rangefinder
 readingtime: true
 toc: true
 draft: false
