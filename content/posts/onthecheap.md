@@ -1,31 +1,25 @@
-+++
-title = "Film Photography on the Cheap"
-date = "2024-12-07T15:05:35+02:00"
-author = "erik"
-authorTwitter = "" #do not include @
-cover = "/onthecheap/bulk.jpg"
-coverCaption = ""
-description = "My attempt at making the case that it's possible to get away cheaply with film photography."
-showFullContent = false
-readingTime = true
-hideComments = false
-color = "" #color from the theme settings
-toc = "true"
-draft = "false"
-+++
-
+---
+title: Film Photography on the Cheap
+date: 2024-12-07
+author: erik
+cover: static/onthecheap/bulk.jpg
+description: Can you really shoot film on a budget?
+readingtime: true
+toc: true
+draft: false
+---
 ## So --- what's going on?
 
-To put it short, Kodak is increasing the prices of their films once again. Most price increases will be around the 10% mark, but some unfortunate ones, such as Kodak Gold, will go up by a whopping 30%. 
-
+To put it short, Kodak is increasing the prices of their films once again. Most price increases will be around the 10% mark, but some unfortunate ones, such as Kodak Gold, will go up by a whopping 30%.
 
 ### Implications of price increases
+
 I was watching [Overexposed's video](https://www.youtube.com/watch?v=NmzhsnUMwrQ) on this. He ended it with a small rant about how these constant increases in price will essentially kill film photography. When YouTubers hype cameras up, their prices skyrocket. Kodak raises the price yearly, way above the rate of inflation. Even the hemicals are getting more expensive. Film photographers just can't catch a break.
 
 Only one question remains, then --- how do I keep shooting film without getting ruined?
 
-
 ## Making a few things clear (for dumb Americans)
+
 I'm European. My country, Sweden, never signed some document about the euro and we ended up just keeping the Swedish crown as our currency. I will be discussing prices in this post in euros. If you need to check the difference between dollars and euros, just google it.
 
 This also means that it might be possible to get stuff for even cheaper in the US or other parts of the world. Or that the tips I leave in the post may cost more in the US than in Europe (Foma products for example).
@@ -34,7 +28,7 @@ This post is also meant for someone that isn't already well versed in the world 
 
 ### It's black and white
 
-Start shooting black and white. B/W photography is what will get you into the darkroom for real and actually do your own prints. It's easier to handle in all ways compared to colour negatives and it's hell of a lot cheaper. If you want to get into cheap photography, you have no choice. Unless you bulk roll cinema film, but we'll touch more on that later on. 
+Start shooting black and white. B/W photography is what will get you into the darkroom for real and actually do your own prints. It's easier to handle in all ways compared to colour negatives and it's hell of a lot cheaper. If you want to get into cheap photography, you have no choice. Unless you bulk roll cinema film, but we'll touch more on that later on.
 
 Oh, and one last thing. You need to develop your film yourself.
 
@@ -54,12 +48,12 @@ You can buy already empty cassettes on most welk stocked shops for analogue phot
 
 So, the price? Let's start with Ilford HP5.
 
->A **roll of Ilford HP5** costs **9 euros** at fotoimpex as of writing this post.  
-A **30m bulk roll of HP5** costs **130 euros** at fotoimpex as of writing this post post.  
+> A **roll of Ilford HP5** costs **9 euros** at fotoimpex as of writing this post.  
+> A **30m bulk roll of HP5** costs **130 euros** at fotoimpex as of writing this post post.
 
 What does that mean?
 
->A 30m bulk roll is split up into roughly 18 rolls. So 130 euros divided by the 18 rolls means that you get €7,20 per roll, compared to €9.
+> A 30m bulk roll is split up into roughly 18 rolls. So 130 euros divided by the 18 rolls means that you get €7,20 per roll, compared to €9.
 
 If you do the same comparsion for Fomapan, you end up saving more than half the cost. A 36 exposure roll of Foma400 costs about €5,50 whereas a bulk loaded roll of Foma400 ends up at €2,55
 
@@ -68,7 +62,6 @@ If you do the same comparsion for Fomapan, you end up saving more than half the 
 Having left the film itself behind, you also need to be able to get your hands on cheap chemicals. I would strongly advise any newcomer to buy Rodinal, Fomafix and Kodak Photo-flo.
 
 {{< figure src="/onthecheap/rodinal.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
-
 
 Rodinal is a very very cheap one-shot (means you pour it out the sink when done) developer with an amazing shelf life. It's said that they can be stored for up to 40 years without any problems.
 
@@ -88,28 +81,32 @@ We're going to use that to build this:
 
 {{< figure src="/onthecheap/scan.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
 
-This is the skeleton of an old enlarger I found at a thrift store for about €15. Onto it, I attached a €18 tripod head with a 1/4th inch bolt. I mount my camera onto the tripod head and I can then adjust all settings I need. The wheel on the right makes it possible to change the height of the camera to match your negative. 
+This is the skeleton of an old enlarger I found at a thrift store for about €15. Onto it, I attached a €18 tripod head with a 1/4th inch bolt. I mount my camera onto the tripod head and I can then adjust all settings I need. The wheel on the right makes it possible to change the height of the camera to match your negative.
 
 For this, I also had to buy a macro lens that worked for my camera. I decided on an old Sigma lens for the Nikon mount (with an adapter ring for my Canon DSLR) that cost me about €80.
 
-To add a bit more cost, I use the Lomography DigitaLIZA PLUS. It's a small light table with holders for medium format, 127 and 35mm film. It's built well and works wonderfully for scanning at home. 
+To add a bit more cost, I use the Lomography DigitaLIZA PLUS. It's a small light table with holders for medium format, 127 and 35mm film. It's built well and works wonderfully for scanning at home.
 
 I'll add a few sample shots taken with bulk rolled film, developed in cheap chemicals and scanned with the DIY scanner.
 
+* * *
 
+* * *
 
+* * *
 
----
----
----
----
----
----
----
+* * *
 
+* * *
+
+* * *
+
+* * *
 
 ### Sample shots ---
+
 #### taken on bulk rolled film, developed in cheap chemicals and scanned with the DIY scanner
+
 {{< figure src="/onthecheap/emohouse.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
 
 {{< figure src="/onthecheap/militarylooking.jpg" alt="" position="center" style="border-radius: 8px;" caption="" captionPosition="center" captionStyle="color: darkblue;" >}}
