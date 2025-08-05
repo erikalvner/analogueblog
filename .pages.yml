@@ -1,5 +1,5 @@
 media:
-  input: 
+  input: static
   output:
 content:
   - name: posts
