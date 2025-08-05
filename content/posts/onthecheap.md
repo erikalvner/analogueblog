@@ -2,7 +2,7 @@
 title: Film Photography on the Cheap
 date: 2024-12-07
 author: erik
-cover: /onthecheap/rodinal.jpg
+cover: /onthecheap/bulk.jpg
 description: Can you really shoot film on a budget?
 readingtime: true
 toc: true
