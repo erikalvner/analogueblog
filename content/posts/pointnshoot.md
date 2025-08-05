@@ -2,7 +2,7 @@
 title: Cheap Point n' Shoots
 date: 2024-12-09
 author: erik
-cover: /Dropped Image (6).png
+cover: /pointnshoot/minoltaafcolympusxa2.jpg
 description: Comparing two cheap point n' shoots - the Minolta AF-C and the Olympus XA2
 readingtime: true
 toc: true
