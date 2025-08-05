@@ -2,7 +2,7 @@
 title: Medium Format Folders
 date: 2025-02-28
 author: erik
-cover: static/folders/perkeo.jpg
+cover: static/Dropped Image (6).png
 description: My two cents on what cameras to get if you're looking for medium format folders
 readingtime: true
 toc: true
