@@ -11,6 +11,8 @@ paginate = 5
   fullWidthTheme = false
   centerTheme = true
   favicon = "/favicon.png"
+  [permalinks]
+  images = "/:filename"
     [languages]
   [languages.en.params]
     title = "analogue-direction"
