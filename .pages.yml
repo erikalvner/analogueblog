@@ -1,6 +1,6 @@
 media:
   input: static
-  output: hahehi
+  output: /
 content:
   - name: posts
     label: Posts
