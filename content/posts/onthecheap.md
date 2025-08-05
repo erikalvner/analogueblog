@@ -6,7 +6,7 @@ cover: static/onthecheap/bulk.jpg
 description: Can you really shoot film on a budget?
 readingtime: true
 toc: true
-draft: true
+draft: false
 ---
 ## So --- what's going on?
 
