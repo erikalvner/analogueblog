@@ -12,4 +12,7 @@ content:
       - { name: author, label: Author, type: string }
       - { name: cover, label: Cover, type: image }
       - { name: description, label: Description, type: string, options: { maxlength 140 } }
+      - { name: readingtime, label: Reading time, type: boolean, default: true }
+      - { name: toc, label: Table of contents, type: boolean, default: true }
+      - { name: draft, label: Draft?, type: boolean, default: true }
       - { name: body, label: Body, type: rich-text }
