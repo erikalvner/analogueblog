@@ -1,6 +1,6 @@
 media:
   input: static
-  output: "/"
+  publicPath: /
 content:
   - name: posts
     label: Posts
