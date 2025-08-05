@@ -1,21 +1,16 @@
-+++
-title = "Cheap Point n' Shoots"
-date = "2024-12-09T00:05:35+02:00"
-author = "erik"
-authorTwitter = "" #do not include @
-cover = "pointnshoot/minoltaafcolympusxa2.jpg"
-coverCaption = ""
-description = "Comparing two cheap point n' shoots - the **Minolta AF-C** and the **Olympus XA2.**"
-showFullContent = false
-readingTime = true
-hideComments = false
-color = "" #color from the theme settings
-toc = "true"
-draft = "false"
-+++
-
+---
+title: Cheap Point n' Shoots
+date: 2024-12-09
+author: erik
+cover: static/pointnshoot/minoltaafcolympusxa2.jpg
+description: Comparing two cheap point n' shoots - the Minolta AF-C and the Olympus XA2
+readingtime: true
+toc: true
+draft: false
+---
 ## Introduction
-A few years ago when I was just getting into film photography, around 2017, I found a lot of YouTube videos about the Olympus XA. It's a tiny point n' shoot featuring a rangefinder focus system. Great, huh? 
+
+A few years ago when I was just getting into film photography, around 2017, I found a lot of YouTube videos about the Olympus XA. It's a tiny point n' shoot featuring a rangefinder focus system. Great, huh?
 
 The only problem is its price. It's been hyped up over the years and they're now quite costly if you want one in good condition and working order --- and you do. Since they're all electrical cameras, you can't simply get them fixed if you receive a broken one or if it ends up breaking.
 
@@ -23,11 +18,9 @@ I chose to go another route, instead buying the Olympus XA2 on eBay for about 22
 
 After looking around for other cameras on the Swedish equivalent of eBay, I wound up purchasing a Minolta AF-C for about 100 Swedish crowns (roughly 10 dollars/euros). The Minolta AF-C sports an f2.8 lens and an early 80's auto focus system. The point of this post is to compare these two fairly inexpensive point n' shoots to see what they have to offer.
 
-Like with my previous (and first) post on this blog, I'd love it if you were to check out my photography work. You can find my portfolio **[here](https://kallmoraberget.com/)**.
+Like with my previous (and first) post on this blog, I'd love it if you were to check out my photography work. You can find my portfolio [**here**](https://kallmoraberget.com/).
 
-
-
----
+* * *
 
 ## Olympus XA2
 
@@ -53,7 +46,7 @@ It sports a 35mm f3.5 lens that's, in my opinion at least, very very sharp. I'll
 
 {{< figure src="/pointnshoot/street.jpg" alt="" position="center" style="border-radius: 8px;" caption="A street in Uppsala, Sweden" captionPosition="center" captionStyle="color: darkblue;" >}}
 
-If we look at a slightly zoomed in version of this photo, it's very easy to make out the lettering on the sign that says "FRISÖR" in the distance. 
+If we look at a slightly zoomed in version of this photo, it's very easy to make out the lettering on the sign that says "FRISÖR" in the distance.
 
 {{< figure src="/pointnshoot/olympusxa2zoom.png" alt="" position="center" style="border-radius: 8px;" caption="The very same street, zoomed in." captionPosition="center" captionStyle="color: darkblue;" >}}
 
@@ -79,7 +72,7 @@ One really good thing about it, however, is that it doesn't block you from takin
 
 Well, it's small and comapct as can be. It may not be the most ergonomic camera in the world, but it's also not bad in any way. You can open it and set any settings one handed when you get used to handling it.
 
-It has a small red touch button on the top right that acts as a shutter button. 
+It has a small red touch button on the top right that acts as a shutter button.
 
 ### Ease of use and quirks
 
@@ -87,8 +80,7 @@ It's very very easy to use. Apart from the focus, it's an all automatic point n'
 
 One of the quirks is most definitely what I mentioned earlier, how it resets the focus distance once you close the clamshell up. I fucking hate it. I've lost several good shots over the years by forgetting to set the focus again after closing it and opening it up again.
 
-
----
+* * *
 
 ## Minolta AF-C
 
@@ -98,11 +90,11 @@ I've not owned the Minolta AF-C for as long, but I'll do my best to give a short
 
 ### Build and functions
 
-Unlike the Olympys XA2, the Minolta AF-C is definitely **not** built like a tank. It feels significantly more plasticky and some parts of it can sometimes feel a bit loose and creaky. 
+Unlike the Olympys XA2, the Minolta AF-C is definitely **not** built like a tank. It feels significantly more plasticky and some parts of it can sometimes feel a bit loose and creaky.
 
 Also unlike its counterpart, it's not a clamshell design. It features a downward sliding door to protect the lens and the viewfinder. Unlike the XA2, the door feels very flimsy and the little "lens cap" that retracts when pulling it down has gotten stuck on me a few times.
 
-It has a very big advantage over the XA2 in its autofocus system. It uses an IR blaster and receiver in some very smart way to find its focus, which means it isn't dependent on light as it instead works similarily to the bio sonar that bats use to navigate, but with IR light instead of echoes. 
+It has a very big advantage over the XA2 in its autofocus system. It uses an IR blaster and receiver in some very smart way to find its focus, which means it isn't dependent on light as it instead works similarily to the bio sonar that bats use to navigate, but with IR light instead of echoes.
 
 The downside comes at what speeds of film you can use. Just like the XA2, it lacks DX coding and you set the ISO manually on the front of the camera. There are two models of the AF-C. The most common one is capped at an ISO of 400, which means you won't be able to shoot higher speed films and will also not be able to push regular films like HP5+. There is, however, another model of it that comes with an ISO-cap of 1000, a fairly odd number to cap it at, as there is no way to choose 800. I own one of each model and wouldn't recommend the ISO 400 to most people, as being able to shoot higher speeds is very important, at least for me. I always tend to push my film and shoot at higher speeds.
 
@@ -118,7 +110,6 @@ If we take a closer look at the photo, there is quite a lot of detail. The detai
 
 I don't have a lot of complaints apart from the apparent dim exposures I got, but that could also be due to user error when correcting for the extra 200 ISO points between 800 and 1000. I have however heard from other people online that this is a "problem" (in quotation marks as it can easily be adjusted for when developing).
 
-
 ### Darkness capabilities
 
 {{< figure src="/pointnshoot/minoltaafcflash.jpg" alt="" position="center" style="border-radius: 8px;" caption="With the flash accessory attached" captionPosition="center" captionStyle="color: darkblue;" >}}
@@ -131,15 +122,15 @@ It also holds the advantage of sporting an f2.8 lens as compared to the XA2's f3
 
 ### Ergonomics
 
-Being a bit bigger than the XA2, the ergonomics are automatically a bit better. Unlike the XA2's touch button for the shutter, the AF-C sports an actual button that's much more satisfying to click and also much easier to tell when the photo will actually be taken. 
+Being a bit bigger than the XA2, the ergonomics are automatically a bit better. Unlike the XA2's touch button for the shutter, the AF-C sports an actual button that's much more satisfying to click and also much easier to tell when the photo will actually be taken.
 
-When you hold the AF-C in the hand, the decent enough ergonomics are kind of overshadowed by the flimsy feel of it, though. The viewfinder is large and bright however, and features framelines to make composing easier. 
+When you hold the AF-C in the hand, the decent enough ergonomics are kind of overshadowed by the flimsy feel of it, though. The viewfinder is large and bright however, and features framelines to make composing easier.
 
 ### Ease of use and quirks
 
 It's extremely easy to use. Being an all automatic camera with automatic exposure and autofocus, the only thing you need to set is the ISO. After that, you literally just point and shoot.
 
-If you half press the shutter button, it locks the focus and a green LED lights up in the corner of the viewfinder. After that you can move the camera around and compose your shot with the focus set at whatever subject you're shooting. 
+If you half press the shutter button, it locks the focus and a green LED lights up in the corner of the viewfinder. After that you can move the camera around and compose your shot with the focus set at whatever subject you're shooting.
 
 There are two significant quirks. The first being the underexposure of most shots, which is easily fixed. The other is sadly that the light seals seem to be of quite bad quality. I brought the first AF-C I bought with me to Slovenia for a trip and when I got the scans back from the lab (I only do B/W at home), they all looked like this:
 
@@ -147,7 +138,7 @@ There are two significant quirks. The first being the underexposure of most shot
 
 I bought two working AF-C's (I bought the ISO 400 version at first and then got my hands on the ISO 1000 model) and got two broken ones from a fellow analogue shooter. On top of this, I bought a data back for it on the Swedish equivalent to eBay. ONE, and I repeat, one (1) of these film doors had its light seals intact. The rest had light leaks. If you buy one, count on having to replace the light seals.
 
----
+* * *
 
 ## Conclusion
 
@@ -157,10 +148,10 @@ That being said, I don't shy away from grabbing the Minolta AF-C, mostly due to 
 
 I'd honestly give these two cameras a draw. They're both EXCELLENT choices for cheap point n' shoots, but for the novice I'd stay away from the Minolta AF-C due to its bad light seals.
 
-
----
+* * *
 
 ## Sample shots
+
 I'll end the review with a few more sample shots:
 
 ### The XA2
@@ -173,7 +164,7 @@ Unlike the AF-C, where I haven't had proper experience with the flash, the XA2 h
 
 {{< figure src="/pointnshoot/threefriends.jpg" alt="" position="center" style="border-radius: 8px;" caption="Three friends" captionPosition="center" captionStyle="color: darkblue;" >}}
 
----
+* * *
 
 ### The AF-C
 
